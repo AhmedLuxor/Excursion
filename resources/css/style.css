@@ -28,6 +28,6 @@ p {
   font-size: 21px;
 }
 
-p.copyright {
- text-align: right;  
+section.copyright {
+ text-align: right;
 }
